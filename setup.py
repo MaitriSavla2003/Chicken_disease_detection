@@ -19,7 +19,7 @@ def get_requirements(file_path: str) -> List[str]:
     return requirements
 
 setup(
-    name='Chick_disease_classifier',
+    name='Chicken_disease_classifier',
     version='0.0.1',
     author='Maitri Savla',
     author_email='maitrisavla2003@gmail.com',
